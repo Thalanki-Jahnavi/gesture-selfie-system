@@ -38,6 +38,3 @@ Captured images are saved in the `selfies/` folder.
 * Add GUI interface
 * Improve gesture accuracy
 
-## 👨‍💻 Author
-
-Your Name
